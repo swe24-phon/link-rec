@@ -40,7 +40,7 @@ https://github.com/pdhoward/
 https://aistudio.google.com/
 https://ai.google.dev/gemini-api/docs?_gl=1*1irz0wg*_ga*MTQwNjQ5NTE2NC4xNzQxMjM1MTE3*_ga_P1DBVKWT6V*MTc0MTI0MDY5Ni4zLjEuMTc0MTI0MDc2Ny42MC4wLjU4NTc1MjM1Nw..
 https://ai.google.dev/gemini-api/docs/downloads?_gl=1*1irz0wg*_ga*MTQwNjQ5NTE2NC4xNzQxMjM1MTE3*_ga_P1DBVKWT6V*MTc0MTI0MDY5Ni4zLjEuMTc0MTI0MDc2Ny42MC4wLjU4NTc1MjM1Nw..
-C:\Users\majic\AppData\Roaming\Ditto\Ditto.db
+
 https://github.com/bgoonz/My-Medium-Blog/tree
 https://github.com/Andrey153
 https://github.com/ajcwebdev
@@ -135,12 +135,12 @@ $checkout_session = \Stripe\Checkout\Session::create([
 http_response_code(303);
 header("Location: " . $checkout_session->url);
 https://www.youtube.com/watch?v=1KxD8J8CAFg
-C:\Users\majic\Downloads\stripe-ckout-php.zip
+
 
 https://www.youtube.com/watch?v=1r-F3FIONl8
 https://youtu.be/obolAwbx388
 Send SMS Messages with PHP
-C:\Users\majic\Downloads\Send SMS Messages with PHP.zip
+
 
 https://www.youtube.com/watch?v=qx9YTg1BDYI
 https://youtu.be/yi2b9U1kQyc
@@ -152,9 +152,9 @@ https://github.com/Byakkuya/docker-Pern/tree/main
 https://github.com/Byakkuya?tab=repositories
 https://medium.com/@hikmatullahmcs/here-is-a-step-by-step-guide-on-how-to-integrate-stripe-with-a-node-js-77a25adf7064
 https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/
-C:\Users\majic\Downloads\CARRY BEE (1).pdf
 
-C:\Users\majic\Downloads\CARRY BEE.pdf
+
+
 
 https://www.udemy.com/course/ollama-starttech/
 https://www.udemy.com/course/essentials-for-arcpy/
