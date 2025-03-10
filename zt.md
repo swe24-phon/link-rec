@@ -16,20 +16,6 @@ https://www.youtube.com/watch?v=3JW732GrMdg
 
 https://www.youtube.com/watch?v=TZO7yefsroo
 https://www.youtube.com/watch?v=0g0L5iGKv9g
-FROM node:22
-
-WORKDIR /app
-
-COPY ./app/package*.json ./
-
-RUN npm install
-
-COPY ./app .
-
-EXPOSE 5173
-
-#CMD ["npm", "run", "dev"]
-CMD ["npm", "run", "dev", "--", "--host"]
 
 https://www.udemy.com/course/vscode-shortcuts-extensions-for-web-developer/
 https://www.udemy.com/course/python-java-master-backend-frontend-web-developments/
