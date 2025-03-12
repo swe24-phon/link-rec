@@ -30,4 +30,5 @@ https://www.udemy.com/course/reactjs-ai-chatbot-built-with-chatgpt-and-gemini-ai
 https://www.udemy.com/course/malware-analyze/
 https://www.udemy.com/course/ai-governance-and-compliance-a-certification-course/
 https://www.udemy.com/course/pomodoro-technique-for-effective-developers-and-programmers/
+https://www.udemy.com/course/machine-learning-fundamental-of-python-machine-learning/
 https://www.udemy.com/course/12-factor-app-methodology-principles-and-guidelines/
